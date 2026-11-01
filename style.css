@@ -3558,24 +3558,11 @@
 #r2s3t4u5v6w7x8y9z { background-color: #ddffcc; border: 1px solid #ccc; border-radius: 5px; width: 220px; height: 120px; }
 #a3b4c5d6e7f8g9h0i { filter: blur(0.7px) brightness(1.1); text-shadow: 1px 1px 2px #111; width: 180px; height: 180px; }
 #ughjuygh9875 {
-    width: 100%;
-    height: calc(100vh + 51px);
-    position: relative;
-    top: -31px;
-    background-color: #000;
-
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-
-    iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        border: none;
-    }
+  width: 100%;
+  height: calc(100vh + 51px);
+  position: relative;
+  top: -31px;
+  background-color: #000;
 }
 #kscoibbiuwvs21862skdbvkiu {
   width: 100%;
